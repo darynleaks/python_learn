@@ -36,4 +36,4 @@ while var > 0:
    if var == 5:
       continue
    print 'Current variable value :', var
-print "Good bye!"   
+print "Good bye!"
