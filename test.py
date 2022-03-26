@@ -29,11 +29,10 @@ while True:
     print('vvedennata stroka dostatochno')
 '''
 
-
-var = 10                    # Second Example
-while var > 0:
-   var = var -1
-   if var == 5:
-      continue
-   print 'Current variable value :', var
-print "Good bye!"
+while True:
+   daryn = input ('tupeet if eat smth bad:')
+   if daryn == 'vegatables and fruits':
+      print ('smart daryn')
+      break
+   elif daryn == 'eat shit':
+      print ('daun prekreshai')
